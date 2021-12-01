@@ -68,6 +68,27 @@ pip install -r requirements.txt
 6	|Decision Tree          | 0.995 | 0.431 |
 <br>
 
+## For Training Sample 
+
+Actual Label : D
+<br>
+![image](https://user-images.githubusercontent.com/79131292/144254545-9ac7145f-42fe-4719-9a46-f4ce0cd576d5.png)
+
+## For Testing Sample 
+
+Actual Label : C
+<br>
+Predicted Label : C
+<br>
+![image](https://user-images.githubusercontent.com/79131292/144255277-6f2eb1e0-3817-4c83-9c95-d2fa77323841.png)
+
+
+Actual Label : A
+<br>
+Predicted Label : A
+<br>
+![image](https://user-images.githubusercontent.com/79131292/144255493-5212f7e5-3a59-4388-85ca-635670e0388b.png)
+
 ## Future Scope
 * Front-End 
 * Use multiple Algorithms
